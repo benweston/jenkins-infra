@@ -1,6 +1,6 @@
 # Jenkins Infra
 
-<div align="left">
+<div align="justify">
 
 > Jenkins CI/CD infrastructure setup.   
 
